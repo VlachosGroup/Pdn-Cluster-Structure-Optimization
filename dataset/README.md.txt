@@ -1,1 +1,1 @@
-DFT data set for Pnd structure optimization
+DFT and configuration dataset in the 4 active learning iterations

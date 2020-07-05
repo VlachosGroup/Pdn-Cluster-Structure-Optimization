@@ -1,1 +1,0 @@
-Selected configurations to illustrate the mapping between DFT structures and fixed lattice
