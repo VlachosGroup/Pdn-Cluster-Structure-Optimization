@@ -1,4 +1,5 @@
-# Finite Temperature Structures of Supported Subnanometer Catalysts Inferred via Statistical Learning and Genetic Algorithm-based Optimization
+# Pdn Cluster Structure Optimization
+Dataset, statistical learning-based energy model and structure optimization algorithms for subnanometer Pd clusters supported on Ceria
 
 ![toc](docs/toc.svg)
 
