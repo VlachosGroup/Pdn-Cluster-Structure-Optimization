@@ -1,8 +1,6 @@
 # Pdn Cluster Structure Optimization
 Dataset, statistical learning-based energy model and structure optimization algorithms for subnanometer Pd clusters supported on Ceria
 
-![toc](docs/toc.svg)
-
 ## Computational Framework 
 ![framework](docs/framework.svg)
 
@@ -31,3 +29,4 @@ The detailed usage can be found in the links.
 
 
 ## Publication
+![toc](docs/toc.svg)
