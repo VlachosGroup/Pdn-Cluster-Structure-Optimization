@@ -58,7 +58,7 @@ else:
 rseed = 1
 np.random.seed(rseed)
 
-T = 5000 # Ensemble temperature
+T = 300 # Ensemble temperature
 nseeds = 20 # Ensemble size
 GA = GA_f.generator(lasso_file, mother=super_mother, super_cell_flag=True, T=T, nseeds=nseeds)
 
