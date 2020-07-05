@@ -16,14 +16,14 @@ CGA is performed by executing `run_GA.py`.
 - cxpb, the probability of mating two individuals
 - nremain, the number of individual selected in each iteration
 
-### Operators
+### Flow chart and operators
 ![Operators](CGA_operators.svg)
 
 ### Output files describing a CGA trajectory
-- ga_history_output_n_Tk.csv, the record for each individual in each generation 
-- ga_generation_best_n_Tk.csv, the record for the fittest individual in each generation
-- ga_stats_output_n_Tk.csv, the record for the statstics of all individuals in each generation
-- ga_hall_of_frame_n_Tk.csv, the record for the top physically possible individuals in all generations
+- `ga_history_output_n_Tk.csv`, the record for each individual in each generation 
+- `ga_generation_best_n_Tk.csv`, the record for the fittest individual in each generation
+- `ga_stats_output_n_Tk.csv`, the record for the statstics of all individuals in each generation
+- `ga_hall_of_frame_n_Tk.csv`, the record for the top physically possible individuals in all generations
 
 ### Post-processing 
 - Use `process_GA_single.py` to read all output files and generate GA trajectory plots

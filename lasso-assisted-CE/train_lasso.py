@@ -6,7 +6,6 @@ Created on Thu Aug 16 16:37:24 2018
 """
 
 
-
 import lattice_functions as lf
 import regression_tools as rtools
 from set_ce_lattice import mother

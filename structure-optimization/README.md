@@ -1,1 +1,3 @@
-DFT and configuration dataset in the 4 active learning iterations
+# Structure optimization for Pdn clusters on Ceria support 
+- Metropolis MC 
+- Cluster Genetic Algorithm (CGA)
