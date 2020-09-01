@@ -21,6 +21,7 @@ The detailed usage can be found in the links.
 ![Operators](/structure-optimization/CGA/CGA_operators.svg)
 
 ## Dependencies 
+- Python version 3.6+
 - [Numpy](https://numpy.org/): Used for vector and matrix operations
 - [Matplotlib](https://matplotlib.org/): Used for plotting
 - [Scipy](https://www.scipy.org/): Used for linear algebra calculations
