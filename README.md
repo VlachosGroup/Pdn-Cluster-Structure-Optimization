@@ -31,4 +31,5 @@ The detailed usage can be found in the links.
 - [Networkx](https://networkx.github.io/): Used for graph opertations
 
 
-## Publication
+## How to cite this work
+[Wang, Y., Su, Y., Hensen, E. J. M., & Vlachos, D. G. (2020). Finite-Temperature Structures of Supported Subnanometer Catalysts Inferred via Statistical Learning and Genetic Algorithm-Based Optimization. ACS Nano. https://doi.org/10.1021/acsnano.0c06472](https://pubs.acs.org/doi/10.1021/acsnano.0c06472)
